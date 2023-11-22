@@ -40,6 +40,7 @@
   "window.dialogStyle": "custom",
   "window.nativeTabs": true, // this is great, macOS only
   "window.titleBarStyle": "custom",
+  "window.title": "${rootName}${separator}${profileName}${separator}${activeEditorShort}",
   "workbench.editor.closeOnFileDelete": true,
   "workbench.editor.highlightModifiedTabs": true,
   "workbench.editor.limit.enabled": true,
